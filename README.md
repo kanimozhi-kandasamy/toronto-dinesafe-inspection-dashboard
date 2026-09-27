@@ -35,7 +35,7 @@ The dataset includes restaurant details, inspection dates, outcomes, deficiencie
 ## Files
 
 - `Toronto_Restaurant_Inspection_Operations_Dashboard.pbix` — interactive Power BI dashboard
-- `dinesafe-dashboard-preview.png` — dashboard preview image
+- `dinesafe-dashboard-overview-final.png` — dashboard preview image
 
 ## Notes
 
