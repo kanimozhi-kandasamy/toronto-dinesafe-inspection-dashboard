@@ -2,6 +2,8 @@
 
 A Power BI dashboard analysing restaurant inspection activity, outcomes, food-safety infractions, and risk trends in Toronto.
 
+![Dashboard preview](dinesafe-dashboard-overview-final.png)
+
 ## Project objective
 
 To turn City of Toronto DineSafe open data into an interactive dashboard that helps users understand inspection patterns, pass rates, significant infractions, and the most common deficiency types.
